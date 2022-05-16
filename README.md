@@ -1,5 +1,5 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmi0227%2Fhit-counter&count_bg=%2314305C&title_bg=%237CDBDD&icon=github.svg&icon_color=%230D4853&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmi0227%2Fhit-counter&count_bg=%2314305C&title_bg=%237CDBDD&icon=github.svg&icon_color=%230D4853&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=300&section=header&text=Jeongmi&fontSize=90)
 -->
