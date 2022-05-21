@@ -23,7 +23,8 @@
 
 <h6> Current Working Repository </h6>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=MERN-stack-MovieApp&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/MERN-stack-MovieApps&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=Learn-ModernProject_React&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/Learn-ModernProject_React&theme=dracula&show_owner=jeongmi0227)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=MERN-stack-MovieApp&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/MERN-stack-MovieApps&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=Data_Structures_Algorithms&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/Data_Structures_Algorithms&theme=dracula&show_owner=jeongmi0227)
+
 
 
 
