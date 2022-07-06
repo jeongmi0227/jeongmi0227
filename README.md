@@ -24,7 +24,8 @@
 
 <h6> Current Working Repository </h6>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=MovieReview&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/MovieReview&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=jm-clothing&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/jm-clothing&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)
+
 
 
 
