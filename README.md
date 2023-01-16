@@ -16,7 +16,7 @@
 <br><br>
 
 
-![Joengmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmi0227&show_icons=true&theme=dracula)&nbsp;
+![Joengmi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jeongmi0227&show_icons=true&theme=dracula)&nbsp;
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmi0227&layout=compact&theme=dracula)](https://github.com/jeongmi0227/github-readme-stats&theme=dracula) -->
 
 
@@ -24,7 +24,7 @@
 
 <h6> Current Working Repository </h6>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=jm-clothing&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/jm-clothing&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongmi0227&repo=DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jeongmi0227&repo=jm-clothing&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/jm-clothing&theme=dracula&show_owner=jeongmi0227)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jeongmi0227&repo=DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)](https://github.com/jeongmi0227/DataStructures_Algorithms&theme=dracula&show_owner=jeongmi0227)
 
 
 
